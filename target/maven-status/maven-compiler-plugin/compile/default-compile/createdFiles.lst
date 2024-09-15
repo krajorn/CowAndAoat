@@ -1,0 +1,10 @@
+view/GoatDetailsPage.class
+main/main$1.class
+model/Milk.class
+model/Cow.class
+controller/CowController.class
+controller/MilkController.class
+view/landingPage.class
+main/main.class
+view/landingPage$1.class
+view/CowDetailsPage.class
